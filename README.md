@@ -1,5 +1,5 @@
 # Password-Manager
-Majoritatea utilizatorilor folosesc parole slabe (https://howsecureismypassword.net/)
+Majoritatea utilizatorilor folosesc parole slabe (https://www.security.org/how-secure-is-my-password/)
 si le reutilizeaza pentru diferite website-uri. Intrebarea fireasca apare: Cum
 ar trebui sa generam si, mai greu, sa retinem parole puternice (care contin atat
 numere, cat si simboluri) si unice pentru toate website-urile pe care le folosim?
