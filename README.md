@@ -1,6 +1,6 @@
 # Password-Manager
-Majoritatea utilizatorilor folosesc parole slabe (https://howsecureismypassword.
-net/) si le reutilizeaza pentru diferite website-uri. Intrebarea fireasca apare: Cum
+Majoritatea utilizatorilor folosesc parole slabe (https://howsecureismypassword.net/)
+si le reutilizeaza pentru diferite website-uri. Intrebarea fireasca apare: Cum
 ar trebui sa generam si, mai greu, sa retinem parole puternice (care contin atat
 numere, cat si simboluri) si unice pentru toate website-urile pe care le folosim?
 Solutia: Password Manager.
